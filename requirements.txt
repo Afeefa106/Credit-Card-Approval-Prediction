@@ -6,3 +6,4 @@ seaborn
 Flask
 ipykernel
 joblib
+gunicorn==21.2.0
